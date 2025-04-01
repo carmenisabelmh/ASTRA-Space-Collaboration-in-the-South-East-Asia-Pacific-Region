@@ -1,24 +1,14 @@
 # ASTRA-Space-Collaboration-in-the-South-East-Asia-Pacific-Region
 Co-authored white paper and abstract for IAC-25 on enhancing regional space collaboration in Oceania, submitted through the ASTRA program.
-# Regional Space Collaboration in Oceania – IAC-25 Abstract
-This repository documents my co-authorship in an abstract submitted to the **IAC-25** (International Astronautical Congress), under the **IAF Symposium on Emerging Space Ecosystems**.
+📄 [Download the abstract (PDF)](./IAC-25,E11,1,x102316.brief-ext.pdf)
 
-## 📄 Abstract Title
-**An analysis on the current environment and potential methods to improve regional space collaboration in Oceania**
+**Title:** *An Analysis on the Current Environment and Potential Methods to Improve Regional Space Collaboration in Oceania*  
+**Authors:** Rongxuan Chong, Carmen Martinez Harris, et al.  
+**Submitted to:** 76th International Astronautical Congress 2025  
+**Symposium:** IAF Symposium on Emerging Space Ecosystems (E11)  
+**Session:** Connecting Emerging Space Ecosystems (E11.1)  
+**Paper ID:** 102316  
 
-## 📚 Background
-This work was completed through the ASTRA Program, an initiative fostering space policy collaboration across the Oceania and Southeast Asian regions.
+This abstract was developed through the [ASTRA Program](https://ayaa.com.au/astra), a youth-led policy initiative by the Australian Youth Aerospace Association. Our team’s work focuses on regional space collaboration, sustainability, and the inclusion of Pacific Island Nations (PINs) in space governance and development.
 
-## 👥 Co-authors
-This paper was written in collaboration with 11 co-authors across Australia, including representatives from:
-- The Queensland University of Technology, Australian National University, Monash University, and more.
-
-## 📌 Status
-- Submission: Abstract uploaded and accepted for review
-- Symposium: E11.1, Connecting Emerging Space Ecosystems
-- Paper code: IAC-25,E11,1,x102316
-
-## 🧠 Author Contribution
-Co-authored research and policy analysis; contributed to manuscript planning, editing, and strategic framing of recommendations.
-
-🛰️ More updates to come once the manuscript is published.
+🛰️ Full paper coming soon.
